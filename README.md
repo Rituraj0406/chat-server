@@ -1,4 +1,4 @@
-# Pulse Chat Server
+# Chat Server
 
 A real-time chat application backend built with Node.js, Express, and Socket.io. This server provides RESTful APIs for user authentication, messaging, and conversation management, along with WebSocket support for real-time communication.
 
